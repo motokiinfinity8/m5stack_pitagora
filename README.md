@@ -19,8 +19,11 @@ Overview
 下記ライブラリのインストールは必要
 
 https://github.com/earlephilhower/ESP8266Audio
+
 https://github.com/Gianbacchio/ESP8266_Spiram
+
 https://github.com/pololu/vl53l0x-arduino
+
 https://github.com/pololu/vl6180x-arduino
 
 
